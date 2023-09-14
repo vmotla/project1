@@ -1,0 +1,131 @@
+.fontSystem{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.box{
+    width: 500px;
+    margin: 15px auto;
+    box-sizing: border-box;
+}
+
+.bdPanel{
+    background-color: #1DE592;
+    border-radius: 10px;
+    padding: 65px 35px;
+}
+
+.btn{
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.top{
+    padding: 35px;
+    border: 1px solid lightgray;
+    border-radius: 5px 5px 0px 0px;
+}
+.bottom{
+    padding: 25px 35px;
+    border: 1px solid lightgray;
+    border-top: none;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.p1{
+    margin-bottom: 10px;
+    font-size: 32px;
+    font-weight: 400;
+}
+.p2{
+    font-size: 18px;
+}
+
+.profileImage{
+    border-radius: 50%;
+    height: 100px;
+    margin: 10px 35px;
+}
+
+.anchorprofile{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.subscriptionBox{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.subscriptionImage{
+    width: 100%;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.subscriptionDiv{
+    padding: 25px;
+}
+
+.p4{
+    text-transform: uppercase;
+}
+
+.p5{
+    font-size: 32px;
+    font-weight: 400;
+    margin: 0px;
+}
+
+.p6{
+    font-size: 20px;
+}
+
+.viewDetailsBtn{
+    padding: 15px 35px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: white;
+    color: blue;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 400;
+}
+
+.loginBox{
+    width: 400px;
+    margin: 15px auto;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.welcomep {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.loginInput{
+    width: 100%;
+    padding: 20px 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    margin: 10px;
+}
+
+.loginBtn{
+    border: none;
+    border-radius: 30px;
+    padding: 15px 45px;
+    background-color: black;
+    color: white;
+    margin: 15px;
+}
+
+.p7{
+    font-size: 14px;
+    color: rgb(78, 78, 78);
+}
